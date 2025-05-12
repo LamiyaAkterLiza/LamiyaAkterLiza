@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lamiyaliza06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1S6GC6uRo-9eJfA9TQqu-ZJC2p31anjqL](https://drive.google.com/drive/folders/1S6GC6uRo-9eJfA9TQqu-ZJC2p31anjqL
+- 📄 Know about my experiences [SQA-Eng_LamiyaAkterLiza_Resume-2025](https://drive.google.com/drive/folders/1S6GC6uRo-9eJfA9TQqu-ZJC2p31anjqL)
 
 ## Skills
 
