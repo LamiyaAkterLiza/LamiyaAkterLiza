@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Automation Testing Via Webdriverio**
 
-- 👨‍💻 All of my projects are available at [github - LamiyaAkterLiza](https://github.com/LamiyaAkterLiza?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github - LamiyaAkterLiza](https://github.com/LamiyaAkterLiza?tab=repositories)
 
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing, Database Testing.**
 
