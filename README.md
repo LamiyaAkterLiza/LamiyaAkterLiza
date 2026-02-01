@@ -8,7 +8,7 @@
 
 <h3 align="center">🧠"I am a curious bug-hunter with a love for clean code and flawless software! Always testing with care, learning with joy, and adding a little sparkle to every QA task"🐞|| My expertise includes creating comprehensive test plans, executing tests, automating testing processes, and ensuring seamless user experiences✨</h3>
 
-- 🌱 I’m currently learning **Automation Testing Via Webdriverio**
+- 🌱 I’m currently learning **Automation Testing Via WebdriverIO**
 
 - 👨‍💻 All of my projects are available at [Github - LamiyaAkterLiza](https://github.com/LamiyaAkterLiza?tab=repositories)
 
@@ -21,7 +21,7 @@
 ## Skills
 
 - **Software Testing**: Manual and Automated testing, API testing, Database Testing.
-- **Test Automation**: Mocha for test automation frameworks.
+- **Test Automation**: WebDriverIO, Mocha for test automation frameworks.
 - **Reporting**: Experience in Automation testing into **Allure Repoter**.
 - **Issue Tracking**: Jira for efficient issue tracking and project management.
   
